@@ -1,12 +1,12 @@
 {
   "private": true,
-  "name": "emma",
+  "name": "fallandwinterart.com",
   "version": "0.0.1",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "Georgi Yanev <georgiyanev.gy@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "start": "gatsby develop",
     "clean": "gatsby clean"
   },
